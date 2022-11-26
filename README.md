@@ -1,1 +1,1 @@
-# sps-proto
+# Inter-Satellite Payments Streaming Prototype
